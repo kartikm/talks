@@ -1,3 +1,6 @@
+Timeline: 5 Minutes.
+Slides: Maximum 15.
+
 1. Introduction:
    + Who AM I?
    + Why this talk?
