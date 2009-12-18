@@ -8,22 +8,23 @@ Slides: Maximum 15.
 2. Before Unicode:
    + That famous font senario
    + Search
-   + Ancient browsers with font download instructions!
+   + Ancient browsers with zero rendring capacity and non-unicode font download
+     instructions!
 
 3. Now:
    + How Unicode has helped us
    + Search
    + even browsers in Gujarati
+   + Showcasing some sites: GL, News sites, Google, Dictionaries,
+     Spellcheckers
 
 4. Future:
    + Create more Unicode content to promote Open Web Culture!
    + Make sure your encoding is UTF-8
    + Bi/Multi lingual sites on the rise
+   + Remixing data, bookmarklets, Unicode on mobile devices
+   + Saving your language
 
-5. How it will help to save your language?
+5. Questions?
 
-6. Examples: GL, Some News Site, Google, Dictionaries, Spellcheckers
-
-7. Questions?
-
-8. Thanks!
+6. Thanks!
