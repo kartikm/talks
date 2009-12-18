@@ -1,30 +1,76 @@
-Timeline: 5 Minutes.
-Slides: Maximum 15.
+  0
+  Unicode and how to save your language in the age of Open Web
 
-1. Introduction:
-   + Who AM I?
-   + Why this talk?
+  Kartik Mistry
+  kartik@debian.org
+  kartik@flightnetwork.com
 
-2. Before Unicode:
-   + That famous font senario
-   + Search
-   + Ancient browsers with zero rendring capacity and non-unicode font download
-     instructions!
+  Free Culture Road Show, CEPT, Ahmedabad
+  18th December, 2009
 
-3. Now:
-   + How Unicode has helped us
-   + Search
-   + even browsers in Gujarati
-   + Showcasing some sites: GL, News sites, Google, Dictionaries,
-     Spellcheckers
+  1
+  Who & Why?
 
-4. Future:
-   + Create more Unicode content to promote Open Web Culture!
-   + Make sure your encoding is UTF-8
-   + Bi/Multi lingual sites on the rise
-   + Remixing data, bookmarklets, Unicode on mobile devices
-   + Saving your language
+  કાર્તિક મિસ્ત્રી
 
-5. Questions?
+  Promoting use of Unicode everywhere: Blogs, Websites, Content,
+  My son's homework...
 
-6. Thanks!
+  Debian Developer, Contributor to many FOSS projects
+
+  Because my Language matters!
+
+  2
+  Some years back..
+
+  Non-Unicode fonts and contents floating everywhere
+  You can't use same content without re-writing, re-doing it..
+  You've to download fonts to 'see' particular website
+  Examples
+
+  3
+  Ancient things
+
+  Technology
+  Browsers
+  Awareness
+  Ignorance
+
+  4
+  Now
+
+  Yay! Unicode is here! Major companies, platform support
+  Almost all modern browsers support without (almost) any issues
+  People are using Unicode already, some are not aware though!
+  You can't ignore large user base now
+
+  5
+  Examples
+
+  GujaratiLexicon: Entire DB in Gujarati Unicode
+  Google Search
+  Google Dictionary (Language1-->Language2)
+  Blogs, Content, News sites
+  Transliteration, Browser plug-ins
+  Spell-checkers!
+
+  6
+  Future
+
+  End of Non-Unicode font era (way to go yet..)
+  More content to come
+  Bi/Multilingual sites on the rise
+  Translation
+  Preserving your language in digital age
+
+  7
+  That's all!
+
+  Questions?
+
+  Contact Me!
+  Email(s) given elsewhere in slides!
+  Gujarati: http://kartikm.wordpress.com
+  English: http://ftbfs.wordpress.com
+
+  This talk: http://github.com/xkartik/talks
