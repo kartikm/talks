@@ -1,0 +1,29 @@
+So, you want to contribute to Debian
+------------------------------------
+
+* Why? Fun and Profit!
+
+* You know what is Debian!
+
+* Ways to contribute:
+ + Packages
+ + Patches
+ + Documentation (wiki, manpages,..)
+ + Translation
+ + Images, music
+ + Advocacyt
+ + Spread the word!
+
+* DM:
+ + Only upload packages they allowed
+ + No vote
+
+* DD:
+ + Upload any package!
+ + Voting right
+
+* Contributor:
+ + Need sponsor to upload package
+ + Can get involve in almost any team
+
+* We need you!!

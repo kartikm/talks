@@ -1,0 +1,41 @@
+Developer's ToolBox for Debian
+==============================
+
+Bugs
+----
+* reportbug
+* http://bugs.debian.org/
+
+Web
+---
+* PTS
+* QA Page
+* Ubuntu
+
+Building
+--------
+* pbuilder
+
+Check, check, package testing!
+------------------------------
+* Lintian
+* piuparts
+* licensecheck
+* debdiff
+
+Is it working?!
+
+Mo' tools
+---------
+* devscripts
+
+Patch system
+------------
+* quilt
+
+VCSs
+----
+* git
+* subversion
+* hg
+
