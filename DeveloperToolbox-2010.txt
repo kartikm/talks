@@ -3,18 +3,39 @@ Developer's ToolBox for Debian
 
 Bugs
 ----
-* reportbug
-* http://bugs.debian.org/
+* How to report bugs? ah, better bugs!
+ + reportbug
+ + http://bugs.debian.org/
+
 
 Web
 ---
 * PTS
-* QA Page
-* Ubuntu
+ + Desecting PTS
+ + How to use it?
+ + Various fields
 
-Building
---------
+* QA Page
+ + What it is?
+ + Your 'personal' QA page
+ + Buildd, Logs and more
+
+* Ubuntu
+ + What if you're using Ubuntu?
+ + Contributing to Debian and Ubuntu and vice versa using single system
+
+
+Building Packages
+-----------------
+* Tools
 * pbuilder
+
+
+Policy
+------
+* It is not about building packages - it is about building quality packages!
+* Debian Policy
+
 
 Check, check, package testing!
 ------------------------------
@@ -25,13 +46,19 @@ Check, check, package testing!
 
 Is it working?!
 
+
 Mo' tools
 ---------
 * devscripts
+  + wnpp-alert
+  + rc-alert
 
-Patch system
-------------
+
+Patch systems
+-------------
 * quilt
+* dpatch
+
 
 VCSs
 ----
