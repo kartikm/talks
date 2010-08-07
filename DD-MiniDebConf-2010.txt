@@ -9,9 +9,10 @@ So, you want to contribute to Debian
  + Packages
  + Patches
  + Documentation (wiki, manpages,..)
- + Translation
- + Images, music
- + Advocacyt
+ + Translation (Installer, Packages, Documentation)
+ + Artwork
+ + Advocacy
+ + User support
  + Spread the word!
 
 * DM:
@@ -20,7 +21,8 @@ So, you want to contribute to Debian
 
 * DD:
  + Upload any package!
- + Voting right
+ + Voting rights
+ + Sponsorship and NM process
 
 * Contributor:
  + Need sponsor to upload package
